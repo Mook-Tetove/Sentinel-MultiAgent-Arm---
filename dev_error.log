@@ -1,0 +1,12 @@
+
+Traceback (most recent call last):
+  File "D:\Personal\AI Desktop Robot\Code\PC_Server\test_crash.py", line 30, in <module>
+    result = 10 / 0  # ZeroDivisionError!
+             ~~~^~~
+ZeroDivisionError: division by zero
+
+Traceback (most recent call last):
+  File "D:\Personal\AI Desktop Robot\Code\PC_Server\test_crash.py", line 30, in <module>
+    result = 10 / 0  # ZeroDivisionError!
+             ~~~^~~
+ZeroDivisionError: division by zero
